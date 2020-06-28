@@ -79,6 +79,10 @@ flutter:
           weight: 900
 
 
+    - family: BigNoodleTitling
+      fonts:
+        - asset: assets/fonts/BigNoodleTitling-Regular.ttf
+          weight: 400
 
   #
   # For details regarding fonts from package dependencies,
