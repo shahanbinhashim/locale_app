@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-
-
-import 'package:locale_app/main.dart';
+//import 'package:splashscreen/main.dart';
+import 'main.dart';
 import 'dart:async';
 
 void main() {

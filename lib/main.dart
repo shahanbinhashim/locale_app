@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import "package:flutter/material.dart";
 import 'package:flutter/painting.dart';
-import 'package:locale_app/splash.dart';
+//import 'package:locale_app/splash.dart';
 
 void main() => runApp(MaterialApp(
   home: MyApp(),
@@ -18,8 +18,7 @@ class _MyAppState extends State<MyApp> {
     return Scaffold(
         drawer: Drawer(
 
-            children: <Widget>[
-            Container(
+            child: Container(
             width: 411,
             height: 731,
             decoration: BoxDecoration(
@@ -364,10 +363,10 @@ class _MyAppState extends State<MyApp> {
                   ),
                 ]
             )
-            ]        ))
-    ))}
+                    ))
+    );}
 }
 
-]))
-}
+
+
 
